@@ -5,9 +5,9 @@
 #include<Windows.h>
 using namespace std;
 
-class Cat { //робимо котика
+class Cat { 
 private:
-	//властивості (поля класу,змінні классу)
+	
 	string name;
 	int hunger;
 	int energy;
