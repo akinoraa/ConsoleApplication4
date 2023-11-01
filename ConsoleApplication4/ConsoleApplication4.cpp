@@ -44,7 +44,9 @@ public:
 		else {
 			this->energy = energy;
 		}
-	}int getEnergy() {
+	}
+
+         int getEnergy() {
 		return this->energy;
 	}
 
